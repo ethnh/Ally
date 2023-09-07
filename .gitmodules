@@ -1,0 +1,6 @@
+[submodule "Ally_frontend"]
+	path = Ally_frontend
+	url = https://github.com/ethnh/Ally_frontend.git
+[submodule "Ally_webserver"]
+	path = Ally_webserver
+	url = https://github.com/ethnh/Ally_webserver.git

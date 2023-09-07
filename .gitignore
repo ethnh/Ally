@@ -1,3 +1,10 @@
 *
 !README.md
 !LICENSE
+!.gitmodules
+!Ally_frontend
+!Ally_frontend/*
+!Ally_webserver
+!Ally_webserver/*
+#!*/
+# not sure what this line means 100% so leaving it out ^^

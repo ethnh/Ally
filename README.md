@@ -43,6 +43,6 @@ Finding new friends with niche interests within a certain distance of oneself. B
 
 
 ## Minimum due by Fall 2023:
-Option 1. Storyboard - Slideshow of layout, features, etc.
-Option 2. Functional, but ugly app
-Option 3. Significant work split between 1 & 2.
+1. Option 1. Storyboard - Slideshow of layout, features, etc.
+2. Option 2. Functional, but ugly app
+3. Option 3. Significant work split between 1 & 2.
